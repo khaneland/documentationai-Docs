@@ -2,16 +2,20 @@
   "name": "Starter Kit",
   "colors": {
     "light": {
-      "brand": "#F97316"
+      "brand": "#be3455",
+      "heading": "#1a1a1a",
+      "text": "#374151"
     },
     "dark": {
-      "brand": "#FDBA74"
+      "brand": "#FDBA74",
+      "heading": "#f2f2f2",
+      "text": "#c1c1c1"
     }
   },
   "navigation": {
     "tabs": [
       {
-        "tab": "Documentation",
+        "tab": "Documentação",
         "icon": "book",
         "groups": [
           {
@@ -24,27 +28,6 @@
                 "icon": "home"
               }
             ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
-        "icon": "code",
-        "groups": [
-          {
-            "group": "Overview",
-            "icon": "file-text",
-            "pages": [
-              {
-                "title": "Authentication",
-                "path": "authentication",
-                "icon": "lock"
-              }
-            ]
-          },
-          {
-            "group": "Sample Endpoints",
-            "openapi": "openapi.yaml"
           }
         ]
       },
@@ -105,5 +88,6 @@
       }
     ]
   },
-  "template": "atlas"
+  "template": "atlas",
+  "favicon": "https://blob-cdn.documentation.ai/org-c3e07d9f-7b91-43bf-af7f-48adf01f2aa2/doc-71762114-b984-4b1f-878a-d3e575aa099b/1779868946374-9kx80xj6098-favicon-96x96.png?fm=auto&auto=compress%2Cformat"
 }
