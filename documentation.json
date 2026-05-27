@@ -15,23 +15,13 @@
         "icon": "book",
         "groups": [
           {
-            "group": "Start Here",
+            "group": "Comece aqui",
             "icon": "rocket",
             "pages": [
               {
-                "title": "Introduction",
+                "title": "Boas vindas",
                 "path": "introduction",
                 "icon": "home"
-              },
-              {
-                "title": "Quickstart",
-                "path": "quickstart",
-                "icon": "zap"
-              },
-              {
-                "title": "Components",
-                "path": "components",
-                "icon": "code"
               }
             ]
           },
